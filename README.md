@@ -1,16 +1,14 @@
-# starterproject_arkabloc
+# Calculator App - BLoC Pattern
 
-A new Flutter project.
+Aplikasi kalkulator sederhana menggunakan Flutter dengan state management **BLoC Pattern**.
 
-## Getting Started
+## 🛠️ Teknologi
 
-This project is a starting point for a Flutter application.
+- **Flutter** - Framework UI
+- **BLoC** - State management (flutter_bloc)
+- **Cubit** - State management for splash screen
+- **Equatable** - for state comparison
 
-A few resources to get you started if this is your first Flutter project:
+## 👨‍💻 Developer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dibuat dengan ❤️ menggunakan Flutter
