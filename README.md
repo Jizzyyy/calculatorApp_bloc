@@ -9,6 +9,3 @@ Aplikasi kalkulator sederhana menggunakan Flutter dengan state management **BLoC
 - **Cubit** - State management for splash screen
 - **Equatable** - for state comparison
 
-## 👨‍💻 Developer
-
-Dibuat dengan ❤️ menggunakan Flutter
